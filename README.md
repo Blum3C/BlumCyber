@@ -1,12 +1,10 @@
 # Hello, I'm Boluwatife Adeyeye
 <a href="https://linkedin.com/in/boluwatife-adeyeye"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am a researcher and an undergraduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 My exposure to computer engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, forensics analyst or an ethical hacker.
 
@@ -67,7 +65,7 @@ My exposure to computer engineering has led me to develop a passion for cybersec
 </div>
 
 ## Projects
-- Forensic analysis
+- Forensic analysis 
 - Ethical hacking lab
 - TryHackMe Advent of Security 2025
 
