@@ -1,63 +1,73 @@
-# BlumCyber
+# Hello, I'm Boluwatife Adeyeye
+<a href="https://linkedin.com/in/boluwatife-adeyeye"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to BlumCyber — a practical, hands-on record of my cybersecurity journey focused on Offensive Security, Network Security, and Forensic Analysis.
+[Brief Introduction - Remove this afterwards]
 
-This repository contains labs, write-ups, images, threat emulation scenarios, and research notes designed to mirror real-world security problems and adversary behavior. Content is organized so you can follow along, reproduce labs, and learn defensive and offensive techniques in context.
+I am a researcher and an undergraduate with a profound interest in technology and a dedication to solving complex problems.
 
-## Table of Contents
+## Objective
+[Provide Objective - Remove this afterwards]]
 
-- About
-- What you'll find here
-- Labs & Exercises
-- Adversary Simulations
-- Forensic Analysis
-- How to use this repo
-- Contributing
-- Contact
+My exposure to computer engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, forensics analyst or an ethical hacker.
 
-## About
+## Skills
 
-I document step-by-step practical exercises, detailed lab notes, evidence images, and research findings. The goal is to build a reference that helps both beginners and intermediate practitioners understand offensive and defensive techniques, investigation workflows, and how to simulate realistic scenarios for training.
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and filtering      | <a href="https://google.com">Detection Lab</a>|
+| Linux                                         |<a href="https://google.com"> SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://google.com">SOC Automation Lab</a>|
+| Threat detection                              | <a href="https://google.com">SOC Automation Lab</a>|
+| Scripting and Automation for Threat detection | <a href="https://google.com">SOC Automation Lab</a>|
+| Security Auditing                             | <a href="https://google.com">SOC Automation Lab</a>|
+| Vulnerability Assessment                      | <a href="https://google.com">SOC Automation Lab</a>|
+| TCP/IP Networking                             | <a href="https://google.com"> SOC Automation Lab</a>|
 
-## What you'll find here
+## Tools
 
-- Reproducible labs with goals, setup instructions, commands, and expected outcomes.
-- Network security projects focusing on traffic analysis, segmentation, and hardening.
-- Offensive security playbooks showing exploitation paths and mitigation suggestions (for educational use only).
-- Forensic case studies including disk images, timelines, and artifact analysis.
-- Adversary emulation scenarios that simulate common threat behaviours and detection challenges.
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-777BB4?&style=for-the-badge&logo=Nmap&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/-tcpdump-777BB4?&style=for-the-badge&logo=Tcpdump&logoColor=white" />
+</div>
 
-## Labs & Exercises
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+</div>
 
-Each lab includes:
-1. Objective and scope
-2. Required tools and environment
-3. Step-by-step walkthrough
-4. Evidence and artifact collection
-5. Lessons learned and mitigation notes
+## Certifications
 
-## Adversary Simulations
+### 🛡️ Google Cybersecurity Professional Certificate
 
-Simulations reproduce attack chains in controlled labs so defenders can measure detections, improve monitoring, and practice incident response.
+[![Foundations of Cybersecurity](https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/548e7f24c41847097afd4865df992a8e)
 
-## Forensic Analysis
+[![Play It Safe: Manage Security Risks](https://img.shields.io/badge/Google-Play%20It%20Safe-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/cbdd12e0bedf4c73f5352d28edaf7d49)
 
-Collections of investigations with sample images, timelines, and guided analysis steps to teach evidence preservation and root-cause reconstruction.
+[![Connect and Protect: Networks & Network Security](https://img.shields.io/badge/Google-Networks%20%26%20Network%20Security-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/745ded9ebb01ae152ee7ed13e43f3550)
 
-## How to use this repo
+[![Tools of the Trade: Linux & SQL](https://img.shields.io/badge/Google-Linux%20%26%20SQL-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/cb311124c98794417909069f815b547e)
 
-- Browse the lab directories for topic-based content (e.g., offensive/, network/, forensic/).
-- Use provided VM/images where available and follow the setup instructions in each lab.
-- Read the "Lessons learned" sections to get concise defensive recommendations.
+[![Assets, Threats & Vulnerabilities](https://img.shields.io/badge/Google-Assets%20Threats%20%26%20Vulnerabilities-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/407a16fc6470332a324d9cc26fb7adb4)
 
-## Contributing
+[![Sound the Alarm: Detection & Response](https://img.shields.io/badge/Google-Detection%20%26%20Response-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/94bbc8a907cf15340ae85c5d48d8d862)
 
-Contributions, lab submissions, and improvements are welcome. Please open an issue describing your proposed changes before submitting a pull request.
+[![Automate Cybersecurity Tasks with Python](https://img.shields.io/badge/Google-Cybersecurity%20with%20Python-4285F4?style=for-the-badge&logo=python&logoColor=white)](https://coursera.org/share/ae59110aa6d02feed4bbaff8693addfa)
 
-## Contact
+[![Prepare for Cybersecurity Jobs](https://img.shields.io/badge/Google-Prepare%20for%20Cybersecurity%20Jobs-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/be36d6e9e0090d14cf32f7cf8839ec2a)
 
-Maintainer: Blum3C (adeyeyeboluwatife2020@gmail.com)
+### 🤖 Artificial Intelligence
 
----
+[![Google AI Essentials](https://img.shields.io/badge/Google-AI%20Essentials-34A853?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/6848c671a663c77e40a32e79689c36a7)
+</div>
 
-This landing page can be expanded with badges, screenshots, and links to specific lab folders. If you want a different tone (tutorial-style, portfolio-style, or CV-style), tell me which and I will adjust the content and layout accordingly.
+## Projects
+- Forensic analysis
+- Ethical hacking lab
+- TryHackMe Advent of Security 2025
+
