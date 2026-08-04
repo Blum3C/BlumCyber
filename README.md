@@ -42,6 +42,10 @@ My exposure to computer engineering has led me to develop a passion for cybersec
 
 ### 🛡️ Google Cybersecurity Professional Certificate
 
+## 🏆 Professional Certifications
+
+[![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google%20Cybersecurity-Professional%20Certificate-4285F4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/4c3c7cc100fcd95016b824b87db6e1e2)
+
 [![Foundations of Cybersecurity](https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/548e7f24c41847097afd4865df992a8e)
 
 [![Play It Safe: Manage Security Risks](https://img.shields.io/badge/Google-Play%20It%20Safe-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/cbdd12e0bedf4c73f5352d28edaf7d49)
