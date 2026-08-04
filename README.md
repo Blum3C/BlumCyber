@@ -10,17 +10,17 @@ My exposure to computer engineering has led me to develop a passion for cybersec
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         |   Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and filtering      | <a href="https://google.com">Detection Lab</a>|
-| Linux                                         |<a href="https://google.com"> SOC Automation Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://google.com">SOC Automation Lab</a>|
-| Threat detection                              | <a href="https://google.com">SOC Automation Lab</a>|
-| Scripting and Automation for Threat detection | <a href="https://google.com">SOC Automation Lab</a>|
-| Security Auditing                             | <a href="https://google.com">SOC Automation Lab</a>|
-| Vulnerability Assessment                      | <a href="https://google.com">SOC Automation Lab</a>|
-| TCP/IP Networking                             | <a href="https://google.com"> SOC Automation Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Qwiklabs</a>|
+| Network Traffic Monitoring and filtering      | <a href="https://google.com">Qwiklabs</a>|
+| Bash scripting                                |<a href="https://google.com">Qwiklabs</a>|
+| Incident Response Planning and Execution      | <a href="https://google.com">Qwiklabs</a>|
+| Threat detection                              | <a href="https://google.com">Qwiklabs</a>|
+| Scripting and Automation for Threat detection | <a href="https://google.com">Qwiklabs</a>|
+| Security Auditing                             | <a href="https://google.com">Qwiklabs</a>|
+| Vulnerability Assessment                      | <a href="https://google.com">Qwiklabs</a>|
+| TCP/IP Networking                             | <a href="https://google.com">Qwiklabs</a>|
 
 ## Tools
 
@@ -34,7 +34,6 @@ My exposure to computer engineering has led me to develop a passion for cybersec
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
